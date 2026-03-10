@@ -32,7 +32,7 @@
 <?php
 
 class Developer {
-    public string $name     = "Your Name";
+    public string $name     = "Adriansyah Amir";
     public string $role     = "Web Developer";
     public string $location = "Indonesia 🇮🇩";
 
