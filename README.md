@@ -1,18 +1,134 @@
-# 💫 About Me:
-Hi, I'm Adriansyah Amir 👋  <br>I'm a web developer who enjoys building practical and efficient applications. I mainly work with PHP, JavaScript, and MySQL, and I like creating systems such as POS applications, QR-based systems, and web platforms that solve real problems.<br><br>I’m passionate about learning new technologies, improving code quality, and turning ideas into working products. Currently, I’m focused on developing web-based systems and expanding my skills in modern web development.<br><br>🚀 Always building, always learning.
+<!-- HEADER -->
 
+<h1 align="center">Hi 👋, I'm Adriansyah Amir</h1>
+<h3 align="center">🚀 Web Developer | System Builder | Problem Solver</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codingging) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iyancallagher&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iyancallagher&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iyancallagher&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=PHP+Developer;Web+Application+Builder;POS+System+Developer;QR+Based+System+Developer;Always+Learning+New+Tech&center=true&width=500&height=50">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iyancallagher&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+💻 I'm a **Web Developer** who enjoys building practical and efficient applications.
+
+I mainly work with:
+
+* PHP
+* JavaScript
+* MySQL
+* Laravel
+
+I enjoy creating systems such as:
+
+* POS Applications
+* QR-based Systems
+* Inventory Systems
+* Business Automation Platforms
+
+🚀 Currently focused on **developing scalable web systems and improving backend architecture.**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/codingging">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,bootstrap,mysql,postgres,mongodb,supabase,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iyancallagher&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iyancallagher&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=iyancallagher&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iyancallagher&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+| Project               | Description                   | Tech           |
+| --------------------- | ----------------------------- | -------------- |
+| 🧾 POS System         | Web based cashier application | PHP, MySQL     |
+| 📦 Inventory System   | Stock management system       | Laravel        |
+| 📲 QR Attendance      | QR code attendance system     | PHP, JS        |
+| 🚗 Carwash Management | Service & payment system      | PHP, Bootstrap |
+
+---
+
+# 🎯 Current Focus
+
+🚀 Building **Business Automation Systems**
+⚡ Improving **Backend Architecture**
+📦 Developing **Inventory & POS Systems**
+🧠 Learning **Modern Web Development**
+
+---
+
+# ☕ Support
+
+If you like my work, consider giving ⭐ to my repositories.
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=iyancallagher&icon=5&color=6"/>
+
+</p>
+
+---
+
+<p align="center">
+✨ Always building. Always learning.
+</p>
